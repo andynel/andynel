@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <img align="center" src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/techstack.gif"  width="29"/>&nbsp;&nbsp;Tech Stack
+## Tech Stack &nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/techstack.gif"  width="29"/>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Languages 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,7 +47,6 @@ Here are some ideas to get you started:
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
 ## Stats &nbsp;&nbsp;<img align="center" src="https://cdn.icon-icons.com/icons2/1850/PNG/512/statistics_116490.png"  width="29"/>
-## <img align="center" src="https://cdn.icon-icons.com/icons2/1850/PNG/512/statistics_116490.png"  width="29"/>&nbsp;&nbsp;Stats
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andynel&theme=blue-green)
   
