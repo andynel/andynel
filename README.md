@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ![Tech Stack](https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/techstack.gif)
+### &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/techstack.gif"  width="29"/>&nbsp;&nbsp;Tech Stack
 
 #### Languages
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
