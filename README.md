@@ -3,7 +3,7 @@
 ![Header](./icons/github-header-image.png)
 
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=andynel" alt="Profile Views" style="height:42px;">
+  <img src="https://komarev.com/ghpvc/?username=andynel" alt="Profile Views" style="height:30px;">
 </h3
 
 <!--
