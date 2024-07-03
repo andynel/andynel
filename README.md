@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=andynel)
+<p align="center>![](https://komarev.com/ghpvc/?username=andynel)</p>
 
