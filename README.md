@@ -1,6 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/Hi.gif" width="28px"/>, I'm Andy Nel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/Hi.gif" width="28px"/>, </h1><h2 align="center">I'm Andy Nel</h2>
 
+<!--
 ## Hi there 👋
+-->
 
 <!--
 **andynel/andynel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
