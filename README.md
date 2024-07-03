@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/Hi.gif" width="28px"/>, I'm Andy Nel</h1>
+
 ## Hi there 👋
 
 <!--
