@@ -1,5 +1,9 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/Hi.gif" width="28px"/>, I'm Andy Nel</h2>
 
+<h3 align="center">
+  <img src="https://komarev.com/ghpvc/?username=andynel" alt="Profile Views" style="height:21px;">
+</h3
+
 <!--
 ## Hi there 👋
 -->
@@ -41,3 +45,6 @@ Here are some ideas to get you started:
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
 </details>
+
+![](https://komarev.com/ghpvc/?username=andynel)
+
