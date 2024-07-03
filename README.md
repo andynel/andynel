@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
+  ##
   <summary><h4> <img align="center" src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/techstack.gif"  width="29"/> Tech Stack</h4></summary>
 
   #### Languages
