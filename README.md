@@ -46,8 +46,7 @@ Here are some ideas to get you started:
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
-### <img align="center" src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/readME/icons/techstack.gif"  width="29"/>&nbsp;&nbsp;Stats
-### <img align="center" src="https://cdn.icon-icons.com/icons2/1850/PNG/512/statistics_116490.png" width:29"/>&nbsp;&nbsp;Stats
+### <img align="center" src="https://cdn.icon-icons.com/icons2/1850/PNG/512/statistics_116490.png"  width="29"/>&nbsp;&nbsp;Stats
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andynel&theme=blue-green)
   
